@@ -1,0 +1,15 @@
+Car Dealership 
+
+Needs:
+	Inventory List
+		-Make, Model, Year, VIN
+		-Invoice, Pricing
+		-Color
+
+	Built-in Math Function
+		-APR, Financing Options
+	
+	Customer Database
+		-Information, interests, ect.
+		
+	Front End UI
